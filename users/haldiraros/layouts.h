@@ -23,13 +23,13 @@
 #define _________________QWERTY_R1_________________           KC_6,    KC_7,      KC_8,     KC_9,     KC_0,     KC_BSPC
 #define _________________QWERTY_R2_________________           KC_Y,    KC_U,      KC_I,     KC_O,     KC_P,     KC_BSLS
 #define _________________QWERTY_R3_________________           KC_H,    KC_J,      KC_K,     KC_L,     KC_SCLN,  KC_QUOT
-#define _________________QWERTY_R4_________________           KC_N,    KC_M,      TD_COMM,  KC_DOT,   KC_SLASH, KC_RSPC
+#define _________________QWERTY_R4_________________           KC_N,    KC_M,      KC_COMM,  KC_DOT,   KC_SLASH, KC_RSPC
 #define _________________QWERTY_R5_________________           KC_SPC,  KC_RALT,   KC_APP,   RAISE,    LOWER,    KC_RCPC
 
 
 #define ___________________GAME_L1_________________ KC_ESC,   KC_1,     KC_2,     KC_3,     KC_4,     KC_5
 #define ___________________GAME_L2_________________ KC_TAB,   KC_Q,     KC_W,     KC_E,     KC_R,     KC_T
-#define ___________________GAME_L3_________________ KC_CAPS,  KC_A,     KC_S,     KC_D,     KC_F,     KC_G
+#define ___________________GAME_L3_________________ KC_GRAVE,  KC_A,     KC_S,     KC_D,     KC_F,     KC_G
 #define ___________________GAME_L4_________________ KC_LSFT,  KC_Z,     KC_X,     KC_C,     KC_V,     KC_B
 #define ___________________GAME_L5_________________ KC_LCTL,  KC_LGUI,  LOWER,    RAISE,    KC_LALT,  KC_SPC
 
